@@ -40,10 +40,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Subversion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Jira&logoColor=white"/></a>
 </p>
-
