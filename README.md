@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 <p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100&section=header&text=Hi There&fontSize=90" />
 </p>
-<p style="text-align: center;">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white&align=center"/></a>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a>
