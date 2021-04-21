@@ -37,3 +37,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/></a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+</p>
