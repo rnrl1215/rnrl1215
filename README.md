@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100&section=header&text=Hi There&fontSize=90" />
-
+<p style="text-align: center;">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+</p>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Java&logoColor=white"/></a>
