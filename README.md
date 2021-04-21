@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
 </p>
 
 <p align="center">
