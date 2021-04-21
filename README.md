@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECCFA&height=300&section=header&text=Hi There&fontSize=90" style="min-width:100%;" />
 </p>
-<hr>
-</hr>
+
 <p align="center">
 ⚡Tech Stack⚡
 </p>
