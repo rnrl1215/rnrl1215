@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=300&section=header&text=SungkukAhn&fontSize=90" style="max-width:100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2ECCFA&height=300&section=header&text=SungkukAhn&fontSize=90" style="max-width:100%;" />
 </p>
 
 <p align="center">
