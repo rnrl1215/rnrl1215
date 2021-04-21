@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=100&section=header&text=Hi There&fontSize=90" />
 
 <img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&2222logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B22222&logoColor=white"/></a>
