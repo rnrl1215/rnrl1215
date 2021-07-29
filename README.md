@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jpa&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open Access-F68212?style=flat-square&logo=OpenAccess&logoColor=white"/></a>
 
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/></a>
+ <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
 </p>
 
 <p align="center">
