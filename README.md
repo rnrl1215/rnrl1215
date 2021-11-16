@@ -53,4 +53,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Jira&logoColor=white"/></a>
 </p>
 
-<p align="center">알고리즘 및 문제풀이 등 자세한 설명은 티스토리 블로그에 있습니다.</p>
+<br>
+<p align="center">알고리즘 및 문제풀이등 자세한 설명은 티스토리 블로그에 있습니다.</p>
