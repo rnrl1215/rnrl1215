@@ -112,8 +112,11 @@ Here are some ideas to get you started:
 <br>
 <p align="center">알고리즘 및 문제풀이 등 자세한 설명은 티스토리 블로그에 있습니다.</p>
 
+
+<p align="center">
 <a href="https://vprog1215.tistory.com/">
     <img 
         src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://vprog1215.tistory.com/"
         style="height : 20; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</p>
