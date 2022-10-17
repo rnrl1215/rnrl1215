@@ -111,3 +111,9 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">알고리즘 및 문제풀이 등 자세한 설명은 티스토리 블로그에 있습니다.</p>
+
+<a href="https://vprog1215.tistory.com/">
+    <img 
+        src="https://img.shields.io/badge/MacOS-41454A?style=plastic&logo=macOS&logoColor=white&link=https://vprog1215.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
