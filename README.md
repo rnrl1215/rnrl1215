@@ -22,9 +22,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/rnrl1215">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrl1215&layout=compact&show_icons=ture&show_owner=ture&hide_title=${타이틀 가리기}&theme=nord&hide=${가리고 싶은 언어}" height="150" />
   </a>
-  <a href="https://github.com/rnrl1215">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rnrl1215&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=ture&include_all_commits=ture&theme=nord" height="150" />
-  </a>
 </p>
 
 
