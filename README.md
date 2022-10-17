@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white" height="20"/></a>
+  <img src="https://img.shields.io/badge/CirCleCI-343434?style=flat-square&logo=CirCleCI&logoColor=green" height="20"/></a>
 </p>
   
   <br>
