@@ -114,6 +114,6 @@ Here are some ideas to get you started:
 
 <a href="https://vprog1215.tistory.com/">
     <img 
-        src="https://img.shields.io/badge/MacOS-41454A?style=plastic&logo=macOS&logoColor=white&link=https://vprog1215.tistory.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=macOS&logoColor=white&link=https://vprog1215.tistory.com/"
+        style="height : 20; margin-left : 10px; margin-right : 10px;"/>
 </a>
