@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrl1215&layout=compact">
  </a> 
   <a href="https://github.com/rnrl1215">
