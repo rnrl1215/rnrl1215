@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungkuk%20Ahn&fontSize=90" />
 </p>
 
-   <table align="center">
+   <table align="center" frame=void>
 	<th>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnrl1215&layout=compact">
 </th>
 	<th>    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rnrl1215&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=ture&include_all_commits=ture&theme=nord" height="150" /></th>
