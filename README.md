@@ -99,10 +99,8 @@ Here are some ideas to get you started:
     </b>
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/MacOS-41454A?style=plastic&logo=macOS&logoColor=white" height="20"/></a>
 </p>
 
 <br>
