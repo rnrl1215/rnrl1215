@@ -53,7 +53,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JPA%20%20-8A2BE2" height="20"/></a> 
   <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=plastic&logo=Hibernate&logoColor=white" height="20"/></a>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=plastic&logo=ClickHouse&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=plastic&logo=ArangoDB&logoColor=white" height="20"/></a> 
 </p>
 
   <br>
