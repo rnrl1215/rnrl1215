@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sungkuk%20Ahn&fontSize=90" />
 </p>
@@ -23,6 +24,15 @@ Here are some ideas to get you started:
 
   <br>
   <br>
+
+<p align="center">
+     <b>
+        📧 Email: d1215@naver.com 📧
+    </b>
+</p>
+
+<br>
+<br>
 
 <p align="center">
      <b>
