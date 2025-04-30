@@ -41,12 +41,17 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" height="20"/></a>&nbsp
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white" height="20"/></a>&nbsp
      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white" height="20"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" height="20"/></a>&nbsp
      <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height="20"/></a>&nbsp
+       <br>
+    <img src="https://img.shields.io/badge/apachekafka-231F20?style=plastic&logo=apachekafka&logoColor=white" height="20"/></a>
+        <img src="https://img.shields.io/badge/redis-white?style=plastic&logo=redis&logoColor=FF4438" height="20"/></a>
 </p>
-  <br>
+
+
+<br>
  
 <p align="center">
      <b>
@@ -56,13 +61,15 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=plastic&logo=MicrosoftSQLServer&logoColor=white" height="20"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/JPA%20%20-8A2BE2" height="20"/></a> 
-  <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=plastic&logo=Hibernate&logoColor=white" height="20"/></a>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=plastic&logo=ClickHouse&logoColor=white" height="20"/></a>
+  <img src="https://img.shields.io/badge/elasticsearch-white?style=plastic&logo=elasticsearch&logoColor=005571" height="20"/></a>
+  <img src="https://img.shields.io/badge/opensearch-white?style=plastic&logo=opensearch&logoColor=005EB8" height="20"/></a>
+
+
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" height="20"/></a>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=plastic&logo=MicrosoftSQLServer&logoColor=white" height="20"/></a>
+  <img src="https://img.shields.io/badge/JPA%20%20-8A2BE2" height="20"/></a> 
 </p>
 
   <br>
@@ -95,12 +102,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=Qt&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/Open Access-F68212?style=plastic&logo=OpenAccess&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white" height="20"/></a>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=Jira&logoColor=white" height="20"/></a>
-</p>
   <br>
    
 <p align="center">
